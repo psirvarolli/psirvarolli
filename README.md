@@ -1,9 +1,7 @@
-https://github.com/user-attachments/assets/34d28514-8aac-48c3-8533-8129a24ce63a
-
+![Pink Neon Retro Futuristic Gaming Channel Youtube Banner](https://github.com/user-attachments/assets/8c9104f3-47d5-4a96-abdd-00729922424f)
 
 
 👋 Hi there! I’m Patricia — a former Scrum Master turned Front‑End Developer, with 6+ years navigating the tech world and passionate about turning ideas into interactive experiences.
-
 
 
 🔄 **Career Pivot**  
@@ -19,7 +17,6 @@ https://github.com/user-attachments/assets/34d28514-8aac-48c3-8533-8129a24ce63a
 - **React:** Hooks, Context API, component-driven architecture  
 - **Dev Tooling:** Webpack, Babel, npm scripts, Git & GitHub workflows  
 - **On the horizon:** Jest & React Testing Library, TypeScript, GraphQL
-
 
 
 🌱 **What I’m Building Right Now**  
