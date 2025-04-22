@@ -1,3 +1,7 @@
+https://github.com/user-attachments/assets/34d28514-8aac-48c3-8533-8129a24ce63a
+
+
+
 👋 Hi there! I’m Patricia — a former Scrum Master turned Front‑End Developer, with 6+ years navigating the tech world and passionate about turning ideas into interactive experiences.
 
 
