@@ -1,4 +1,4 @@
-👋 Hi there! I’m Patricia — a former Scrum Master turned Front‑End Developer, with 6+ years navigating the tech world and now passionate about turning ideas into interactive, pixel‑perfect experiences.
+👋 Hi there! I’m Patricia — a former Scrum Master turned Front‑End Developer, with 6+ years navigating the tech world and passionate about turning ideas into interactive experiences.
 
 
 
