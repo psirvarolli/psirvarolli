@@ -1,6 +1,4 @@
-<img src="https://github.com/user-attachments/assets/6daaeaa4-1d95-4ce9-9606-ff189785a0e0" />
-<br>
-<br>
+![Github Banner](https://github.com/user-attachments/assets/dc11c1b1-e809-43c3-bee8-c0b426fc9bca)
 
 👋 Hi there! I’m Patricia — a former Scrum Master turned Front‑End Developer, with 6+ years navigating the tech world and passionate about turning ideas into interactive experiences.
 
