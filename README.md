@@ -1,16 +1,40 @@
-## Hi there 👋
+👋 Hi there! I’m Patricia — a former Scrum Master turned Front‑End Developer, with 6+ years navigating the tech world and now passionate about turning ideas into interactive, pixel‑perfect experiences.
 
-<!--
-**psirvarolli/psirvarolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔄 **Career Pivot**  
+- ✨ From orchestrating Agile ceremonies and championing team collaboration…  
+- 🚀 …to building pixel‑perfect experiences with HTML, CSS, JavaScript & React!  
+- 🎯 My Agile mindset ensures I deliver features incrementally, gather feedback quickly, and iterate to excellence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🛠️ **My Tech Stack & Learning Path**  
+- **Markup & Styling:** HTML5, CSS3 (Flexbox, Grid), SASS, Tailwind CSS  
+- **JavaScript:** ES6+ fundamentals, async/await patterns, DOM manipulation  
+- **React:** Hooks, Context API, component-driven architecture  
+- **Dev Tooling:** Webpack, Babel, npm scripts, Git & GitHub workflows  
+- **On the horizon:** Jest & React Testing Library, TypeScript, GraphQL
+
+---
+
+🌱 **What I’m Building Right Now**  
+1. **Next‑Gen Portfolio** – A React SPA with dynamic data fetching  
+2. **Interactive UI Components** – Custom design system with Storybook  
+3. **Agile Dashboard** – Real‑time sprint metrics powered by REST APIs  
+
+---
+
+🚀 **Why Hire Me?**  
+- **Agile DNA:** 6+ years ensuring cross‑functional teams deliver on time and on point  
+- **Rapid Learner:** From Scrum boards to component libs, I adapt fast and ask the right questions  
+- **Collaborative Spirit:** I write clean code, welcome feedback, and mentor peers to elevate team output  
+
+---
+
+📬 **Let’s Connect!**  
+- 📧 ﹕ psirvarolli@gmail.com 
+- 🔗 LinkedIn ﹕ https://www.linkedin.com/in/patriciasirvarolli/
+- 💬 GitHub ﹕ https://github.com/psirvarolli 
+
+:octocat: “Building scalable front‑ends with an Agile soul.”  
